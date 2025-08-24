@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dieta Low Carb em 7 Dias</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white flex items-center justify-center min-h-screen">
+  <div class="max-w-lg bg-gray-800 p-8 rounded-2xl shadow-lg text-center">
+    <h1 class="text-3xl font-bold mb-4">🔥 Perca 3kg em 7 Dias 🔥</h1>
+    <p class="mb-6">Guia completo da Dieta Low Carb, simples, rápido e barato. Milhares já estão usando!</p>
+    <a href="https://pay.kiwify.com.br/SEU-LINK-AQUI" 
+       class="bg-red-500 hover:bg-red-600 text-white font-bold py-3 px-6 rounded-xl shadow-lg animate-bounce">
+       👉 QUERO MEU GUIA AGORA
+    </a>
+    <p class="mt-6 text-sm text-gray-400">Oferta válida apenas hoje. Não vacila!</p>
+  </div>
+</body>
+</html>
